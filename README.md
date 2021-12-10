@@ -1,4 +1,4 @@
-# C-linklist
+# linklist
 資料結構期末作業
 
 linklist-員工資料
